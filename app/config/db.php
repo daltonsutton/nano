@@ -32,8 +32,8 @@ return array(
 			'hostname' => 'localhost',
 			'port' => 3306,
 			'username' => 'root',
-			'password' => 'root',
-			'database' => 'anchoria',
+			'password' => '',
+			'database' => '',
 			'charset' => 'utf8',
 			'prefix' => ''
 		)
